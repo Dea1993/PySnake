@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /usr/share/snake_pygame
+python2 snake_pygame.py

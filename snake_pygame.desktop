@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=0.6.2
+Encoding=UTF-8
+Type=Application
+NoDisplay=false
+Name=SnakePygame
+Comment=gioco dello snake realizzato in python con pygame
+Categories=Game;
+Exec=snake_pygame
+Icon=/usr/share/snake_pygame/Immagini/snake_pygame-icon.png

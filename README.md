@@ -1,9 +1,9 @@
 # PySnake
 this is a simple snake game developet using python and pygame
 
-# Develompent: Andrea De Angelis
-# Email: andrea.deangelis93@gmail.com
-# Site: deasproject.altervista.org
+Develompent: Andrea De Angelis
+Email: andrea.deangelis93@gmail.com
+Site: deasproject.altervista.org
 
 To execute the game you must install these packages
  - python 2.7 32bit (x86 version)
